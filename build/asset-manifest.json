@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.874da01c.css",
+    "main.js": "/static/js/main.3fbb520a.js",
+    "static/js/787.ac930607.chunk.js": "/static/js/787.ac930607.chunk.js",
+    "static/media/contract.svg": "/static/media/contract.30898790c1b16918487a16a789468a65.svg",
+    "static/media/Galano Grotesque Bold.otf": "/static/media/Galano Grotesque Bold.0659e04bfabbb2ad27b6.otf",
+    "static/media/Galano Grotesque Medium.otf": "/static/media/Galano Grotesque Medium.8b48640c5099ce116565.otf",
+    "static/media/Galano Grotesque Light.otf": "/static/media/Galano Grotesque Light.9cb8a90c1434662e612a.otf",
+    "static/media/Galano Grotesque Semi Bold.otf": "/static/media/Galano Grotesque Semi Bold.5ab77a82dadbd5e69b63.otf",
+    "static/media/_pdf.png": "/static/media/_pdf.5c7d5717bac777889a60.png",
+    "static/media/rest-res-plus.svg": "/static/media/rest-res-plus.7e121b74a62f9589bdfae6a0cf2c3b1d.svg",
+    "static/media/textstart.svg": "/static/media/textstart.0f00868cec69c85a312f44e32e97adfb.svg",
+    "static/media/rest-res-minus.svg": "/static/media/rest-res-minus.821c5dedc7b75c316a6b1d8027479e10.svg",
+    "static/media/n-logo-light.svg": "/static/media/n-logo-light.a7a3a9be44114a466decc28ef435ce88.svg",
+    "static/media/file.svg": "/static/media/file.de1a4bc75eac420f4feba02207f6bd4a.svg",
+    "static/media/girl.svg": "/static/media/girl.0543d9a032b0ea0546c0cf64333b6180.svg",
+    "static/media/boy.svg": "/static/media/boy.b804ce09a1d77419ba1cb5ea9143920a.svg",
+    "index.html": "/index.html",
+    "static/media/favicon.svg": "/static/media/favicon.9511583f1a3c9f510fadabec52437513.svg",
+    "main.874da01c.css.map": "/static/css/main.874da01c.css.map",
+    "main.3fbb520a.js.map": "/static/js/main.3fbb520a.js.map",
+    "787.ac930607.chunk.js.map": "/static/js/787.ac930607.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.874da01c.css",
+    "static/js/main.3fbb520a.js"
+  ]
+}
